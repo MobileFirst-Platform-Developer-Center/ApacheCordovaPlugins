@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="ApacheCordovaPlugins">
+        <wb-resource deploy-path="/" source-path="/apps/CordovaPlugin/common"/>
+        <wb-resource deploy-path="/" source-path="/apps/CordovaPlugin/windowsphone8"/>
+        <wb-resource deploy-path="/" source-path="/apps/CordovaPlugin/android"/>
+        <wb-resource deploy-path="/" source-path="/apps/CordovaPlugin/iphone"/>
+        <property name="context-root" value="ApacheCordovaPlugins"/>
+    </wb-module>
+</project-modules>

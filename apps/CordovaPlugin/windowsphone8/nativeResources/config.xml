@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--
+    COPYRIGHT LICENSE: This information contains sample code provided in source code form. You may copy, modify, and distribute
+    these sample programs in any form without payment to IBM® for the purposes of developing, using, marketing or distributing
+    application programs conforming to the application programming interface for the operating platform for which the sample code is written.
+    Notwithstanding anything to the contrary, IBM PROVIDES THE SAMPLE SOURCE CODE ON AN "AS IS" BASIS AND IBM DISCLAIMS ALL WARRANTIES,
+    EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, ANY IMPLIED WARRANTIES OR CONDITIONS OF MERCHANTABILITY, SATISFACTORY QUALITY,
+    FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND ANY WARRANTY OR CONDITION OF NON-INFRINGEMENT. IBM SHALL NOT BE LIABLE FOR ANY DIRECT,
+    INDIRECT, INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR OPERATION OF THE SAMPLE SOURCE CODE.
+    IBM HAS NO OBLIGATION TO PROVIDE MAINTENANCE, SUPPORT, UPDATES, ENHANCEMENTS OR MODIFICATIONS TO THE SAMPLE SOURCE CODE.
+ -->
+<widget xmlns="http://www.w3.org/ns/widgets">
+    <access origin="*" />
+    <feature name="Battery">
+        <param name="wp-package" value="Battery" />
+    </feature>
+    <feature name="Camera">
+        <param name="wp-package" value="Camera" />
+    </feature>
+    <feature name="Contacts">
+        <param name="wp-package" value="Contacts" />
+    </feature>
+    <feature name="Device">
+        <param name="wp-package" value="Device" />
+    </feature>
+     <feature name="DeviceInfo">
+        <param name="wp-package" value="DeviceInfo" />
+    </feature>
+    <feature name="Accelerometer">
+        <param name="wp-package" value="Accelerometer" />
+    </feature>
+    <feature name="Compass">
+        <param name="wp-package" value="Compass" />
+    </feature>
+    <feature name="Notification">
+        <param name="wp-package" value="Notification" />
+    </feature>
+    <feature name="File">
+        <param name="wp-package" value="File" />
+    </feature>
+    <feature name="FileTransfer">
+        <param name="wp-package" value="FileTransfer" />
+    </feature>
+    <feature name="Globalization">
+        <param name="wp-package" value="Globalization" />
+    </feature>
+    <feature name="InAppBrowser">
+        <param name="wp-package" value="InAppBrowser" />
+    </feature>
+    <feature name="Media">
+        <param name="wp-package" value="Media" />
+    </feature>
+    <feature name="Capture">
+        <param name="wp-package" value="Capture" />
+    </feature>
+    <feature name="NetworkStatus">
+        <param name="wp-package" value="NetworkStatus" />
+    </feature>
+    <feature name="SplashScreen">
+        <param name="wp-package" value="SplashScreen" />
+        <param name="onload" value="true" />
+    </feature>
+    <feature name="StatusBar">
+        <param name="wp-package" value="StatusBar" />
+    </feature>
+    <feature name="Vibration">
+        <param name="wp-package" value="Vibration" />
+    </feature>
+    <feature name="DeviceAuth">
+        <param name="wp-package" value="DeviceAuth" />
+    </feature>
+    <feature name="Push">
+        <param name="wp-package" value="Push" />
+    </feature>
+    <feature name="WifiPlugin">
+        <param name="wp-package" value="WifiPlugin" />
+    </feature>
+    <feature name="WLApplicationBar">
+        <param name="wp-package" value="WLApplicationBar" />
+    </feature>
+    <feature name="WLBusyIndicator">
+        <param name="wp-package" value="WLBusyIndicator" />
+    </feature>
+    <feature name="WLCustomDialog">
+        <param name="wp-package" value="WLCustomDialog" />
+    </feature>
+    <feature name="WLOpenURL">
+        <param name="wp-package" value="WLOpenURL" />
+    </feature>
+    <feature name="WLGeolocationPlugin">
+        <param name="wp-package" value="WLGeolocationPlugin" />
+    </feature>
+    <feature name="WLNativePage">
+    	<param name="wp-package" value="WLNativePage" />
+	</feature>
+	<feature name="StoragePlugin">
+    	<param name="wp-package" value="StoragePlugin" />
+	</feature>
+	<feature name="WLDirectUpdatePlugin">
+    	<param name="wp-package" value="WLDirectUpdatePlugin" />
+	</feature>
+	<feature name="Badge">
+    	<param name="wp-package" value="Badge" />
+	</feature>
+	<feature name="WLNativeXHRPlugin">
+    	<param name="wp-package" value="WLNativeXHRPlugin" />
+	</feature>
+	<feature name="WLActionSenderPlugin">
+    	<param name="wp-package" value="WLActionSenderPlugin" />
+	</feature>
+	<feature name="SecurityPlugin">
+    	<param name="wp-package" value="SecurityPlugin" />
+	</feature>
+	<feature name="WLSplashScreen">
+    	<param name="wp-package" value="WLSplashScreen" />
+	</feature>
+	<feature name="WLApp">
+    	<param name="wp-package" value="WLApp" />
+	</feature>
+	<feature name="WLAuthorizationManagerPlugin">
+    	<param name="wp-package" value="WLAuthorizationManagerPlugin" />
+	</feature>
+  <feature name="SayHelloPlugin">
+    <param name="wp-package" value="SayHelloPlugin"/>
+  </feature>
+</widget>
