@@ -1,13 +1,24 @@
 IBM MobileFirst Platform Foundation
 ===
-### Sample Name
+### Adding native functionality to hybrid applications with an Apache Cordova plugin
+In some cases, developers of a hybrid MobileFirst application might have to use a specific third-party native library or a device function that is not yet available in Apache Cordova.
 
+With Apache Cordova, developers can create an Apache Cordova plug-in, which means that they create custom native code blocks, and then call these code blocks in their applications by using JavaScript.
+
+This sample demonstrates how to create and integrate a simple Apache Cordova plug-in.
 
 ### Usage
-Follow the instructions in the tutorials listed below.
+Follow the instructions in the tutorial(s) listed below.
 
 ### Tutorials
+**iOS**
+https://developer.ibm.com/mobilefirstplatform/documentation/getting-started-7-1/foundation/adding-native-functionality/ios-adding-native-functionality-hybrid-application-apache-cordova-plugin/
 
+**Android**
+https://developer.ibm.com/mobilefirstplatform/documentation/getting-started-7-1/foundation/adding-native-functionality/android-adding-native-functionality-hybrid-application-apache-cordova-plugin/
+
+**Windows Phone 8**
+https://developer.ibm.com/mobilefirstplatform/documentation/getting-started-7-1/foundation/adding-native-functionality/windows-phone-8-adding-native-functionality-hybrid-application-apache-cordova-plugin/
 
 ### Supported Levels
 IBM MobileFirst Platform Foundation 7.1
