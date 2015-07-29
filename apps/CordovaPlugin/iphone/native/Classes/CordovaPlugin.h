@@ -9,8 +9,8 @@
     IBM HAS NO OBLIGATION TO PROVIDE MAINTENANCE, SUPPORT, UPDATES, ENHANCEMENTS OR MODIFICATIONS TO THE SAMPLE SOURCE CODE.
 */
 
-#import "WLAppDelegate.h"
-#import "WL.h"
+#import <IBMMobileFirstPlatformFoundationHybrid/IBMMobileFirstPlatformFoundationHybrid.h>
+
 
 @interface MyAppDelegate : WLAppDelegate <WLInitWebFrameworkDelegate> {
     
